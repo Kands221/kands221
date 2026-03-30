@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m Kyle, a third-year college student at STI with a deep passion for technology in all its forms, <br>from hardware to software. My technical expertise is centered around full-stack web <br>development using the MERN stack (MongoDB, Express.js, React.js, Node.js), along with <br>significant experience in Python for AI and web development, and C++ for arduino programming.<br><br>Throughout my academic journey, I’ve actively participated in numerous events and <br>workshops that have not only enhanced my skills but also inspired me to pursue a career<br>in technology. These experiences have shaped my dedication to continuous learning and <br>my ambition to tackle new challenges in the ever-evolving tech landscape.
+I’ve always been driven by curiosity—how systems work, and how thoughtful technology can make everyday processes easier for people.
+
+I’m a Graduating Computer Science student focused on full-stack web & app development, building real-world applications using React, Next.js, Laravel/Node.js, and modern frontend tools. I enjoy designing and developing products that balance clean engineering with practical, user-centered experiences.
+
+I’ve built dashboards, HR and recruitment systems, landing pages, and internal tools, and earned certifications from Meta, IBM and DeepLearning.AI. I was also able to lead a team to the finals of a national hackathon (AppCon 2024), where I led development efforts, collaborated cross-functionally, and delivered a working solution under tight timelines.
+
+Currently, I’m sharpening my skills in building scalable web applications, system design, AI-assisted features, alongside cybersecurity fundamentals and cloud technologies, with an emphasis on cloud practitioner–level expertise.
+
+Currently exploring / open to collaboration on full-stack web applications, early-stage startup projects, and products that combine strong UX with solid engineering.
 
 
 ## 🌐 Socials:
